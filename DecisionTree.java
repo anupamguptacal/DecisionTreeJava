@@ -29,7 +29,7 @@ import java.util.*;
 public class DecisionTree {
 
     // Variable name that defines the file path from where to read the data
-    private static final String FILE_PATH = "C:\\Users\\Sunil Kumar Gupta\\IdeaProjects\\DecisionTree\\src\\project1_1.data";
+    private static final String FILE_PATH = <file_path>;
 
     // Attribute Names
     private static final String LABEL_ATTRIBUTE_NAME  = "labelValues";
