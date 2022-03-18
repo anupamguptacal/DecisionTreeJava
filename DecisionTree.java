@@ -19,9 +19,7 @@
  The Decision Tree relies on choosing the majority label in cases where votes are divided. Ties are not broken and
  all possible majority vote labels are printed when the tree is printed.
 
- @author Anupam Gupta (anupamguptacal@kgpian.iitkgp.ac.in)
- Roll Number: 21CS91P04
- Assignment Number: 1
+ @author Anupam Gupta
  Running Instructions: Only the Main function needs to be run with no special flags
  */
 
